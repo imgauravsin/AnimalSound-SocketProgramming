@@ -1,7 +1,8 @@
-# AnimalSound-SocketProgramming
-### server client
-```
-this project is based on socket programming
-Server keep the information about the animal and thier sound
-client has add sound,query,login and bye to server 
-```
+# CLIENT-SERVER ARCHITECTURE(Animal_Sound)
+### Using TCP/IP Socket
+###### Description :
+Implemented client-server architecture on unix using socket programming.The salient feature are:
+###### Features :
+- Full-Duplex connection mode.
+- Implementation of TCP/IP sockets
+- Multiple clients supported by a single server.
